@@ -24,5 +24,5 @@ public class EjemploArreglosCombinados {
         for (int i = 0; i < c.length; i++){
             System.out.println(i + ": " + c[i]);
         }
-    }g
+    }
 }
